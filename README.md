@@ -33,4 +33,5 @@ Remember that your choice of memory bank controller will depend on the specific 
 
 ## Ref
 - https://en.wikipedia.org/wiki/Bank_switching
+- https://b13rg.github.io/Gameboy-MBC-Analysis/
 - 
